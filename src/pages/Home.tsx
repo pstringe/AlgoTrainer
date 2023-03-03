@@ -1,9 +1,9 @@
 import CodeEditor from "../components/Editor";
 const Home = () => {
     return (
-    <div className='home'>
-        <CodeEditor/>
-    </div>
+        <div className='home'>
+            <CodeEditor/>
+        </div>
     );
 };
 
