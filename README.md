@@ -128,7 +128,7 @@ The backend application should satisfy the following requirements:
 -   Handle requests for code execution and testing.
 -   Handle requests for user management.
 
-```mermaid.js
+```mermaid
 erDiagram
     USER {
         id int PK
